@@ -4,3 +4,4 @@ It is the following:
 *Simple
 *Special
 *Not fuzzy
+
